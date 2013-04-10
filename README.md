@@ -1,2 +1,2 @@
-JaguarWiki
+a rich wiki
 ==========
