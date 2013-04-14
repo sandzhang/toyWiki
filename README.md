@@ -1,2 +1,2 @@
-a rich wiki
+Toy Wiki
 ==========
